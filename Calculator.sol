@@ -28,3 +28,4 @@ contract Calculator {
 
 // we are using int256 instead of uint256 to support negative numbers as uint doesnot support negative numbers
 // we aren't able to divide by 0, so to prevent this we don't want b to be zero.
+// This is a basic calculator that can perform 4 functions/operations.
